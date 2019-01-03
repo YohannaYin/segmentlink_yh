@@ -1,0 +1,3 @@
+/apps/yinhong/gitsource/seglink/seglink/cpp/build/CMakeFiles/edit_cache.dir
+/apps/yinhong/gitsource/seglink/seglink/cpp/build/CMakeFiles/rebuild_cache.dir
+/apps/yinhong/gitsource/seglink/seglink/cpp/build/CMakeFiles/seglink.dir
