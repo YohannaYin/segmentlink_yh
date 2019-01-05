@@ -37,8 +37,11 @@ See ``tool/create_datasets.py''
 
 See ``evaluate.py''
 
-##数据下载和模型pretrain
+
+## 数据下载和模型pretrain
+
 网址:https://github.com/intel/caffe/tree/master/models/intel_optimized_models/ssd/VGGNet
+
 ./build/tools/caffe train -solver models/intel_optimized_models/ssd/VGGNet/VOC0712/SSD_300x300/solver.prototxt \
 -weights models/intel_optimized_models/ssd/VGGNet/VGG_ILSVRC_16_layers_fc_reduced.caffemodel
 
